@@ -1,4 +1,5 @@
 def suma(a,b,c):
     return a+b+c
-
-print(suma(2,3,4))
+def resta(a,b):
+    return a-b
+print(suma(2,3,4)+resta(4,2)
